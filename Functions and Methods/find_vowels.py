@@ -72,6 +72,3 @@ print(vowels)
 
 # Put thE Fork agAinst the wall nOw.
 # ['a', 'e', 'i', 'o', 'u']
-
-# Simple Plan
-# ['a', 'e', 'i']
